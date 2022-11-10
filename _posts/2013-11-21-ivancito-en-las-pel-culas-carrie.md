@@ -8,4 +8,7 @@ tags:
 ---
 
   
-Ivan les trae sus impresiones de la Pelicula Carrie. Deben verla o no? Descubranlo aqui!
+Ivan les trae sus impresiones de la Pelicula Carrie. Deben verla o no? Descubranlo aqui!  
+  
+  
+<iframe allowfullscreen="" frameborder="0" height="270" src="//www.youtube.com/embed/BUDfwdcnT2s" width="480"></iframe>

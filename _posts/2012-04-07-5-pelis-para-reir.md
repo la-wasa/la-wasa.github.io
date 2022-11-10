@@ -11,6 +11,8 @@ Que hay chavos! esta semana vamos a reírnos como pocos fines de semana con 5 de
 
   
 
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/aW6CoU2YtOU/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/aW6CoU2YtOU&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><embed width="320" height="266" src="http://www.youtube.com/v/aW6CoU2YtOU&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
+
   
 
 _**[5 pelis](http://www.la-wasa.com/search/label/5%20pelis) es la columa de La Wasa en la que cada semana platicamos de 5 filmes con algo en común. \[Nueva columna todos los sabados\]**_

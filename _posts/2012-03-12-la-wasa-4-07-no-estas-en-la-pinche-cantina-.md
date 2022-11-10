@@ -15,16 +15,16 @@ Esta semana en la wasa. Declaraciones de miembros del PAN provocan controversia;
 Florence Cassez
 
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85236669%3Fsecret_token%3Ds-MsrKo&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 Nos acordamos, por alguna razón, de muchas cosas de la infancia al grabar, y pasamos los últimos minutos comentando lo mismo.  
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/cAl0_EIuosw&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/cAl0_EIuosw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
 También grabamos un nuevo episodio de [_La Wasa juega_](http://www.youtube.com/playlist?list=PLBC3C8C75B5F3597A) esta semana [Super Smash Land](http://supersmashland.com/)  
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/i4fGqbdN6NE/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/i4fGqbdN6NE&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/i4fGqbdN6NE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
 
@@ -35,7 +35,7 @@ En la música:
 *   Carlos Vives - Gota Fria
 *   Kaoma - Lambada
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/OT-imE4Q_NU/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/OT-imE4Q_NU&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/OT-imE4Q_NU&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
 

@@ -7,6 +7,8 @@ tags:
 - La Wasa
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85040195"></iframe>
+
 Después de una nueva ausencia de 2 semanas debido al final de semestre regresamos para analizar todo lo que pasó con el debate del 6 de mayo. Y no solo eso; desde el principio habíamos querido hacer un episodio de roadtrip y finalmente lo grabamos, La Wasa va a [La Joya en Veracruz](http://g.co/maps/me7g9). Saludos a todos los fans por allá... si es que los hay.
 
   
@@ -21,7 +23,7 @@ Aprovechamos también para a nombre de La Empresa, de La Wasa Podcast, de La Was
 
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/CeV8FDThhAY?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/CeV8FDThhAY?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash"></object> 
 
   
 
@@ -51,3 +53,5 @@ En la música:
 *   AC/DC - Back in Black
 *   Jack White - I'm Shakin'
 *   Oasis - Don't Look Back in Anger
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/j6vVP91C3Iw&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/j6vVP91C3Iw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

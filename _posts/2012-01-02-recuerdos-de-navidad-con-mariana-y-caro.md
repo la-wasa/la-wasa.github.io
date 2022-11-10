@@ -10,7 +10,7 @@ tags:
 [![](http://imgs.xkcd.com/comics/christmas_back_home.png)](http://xkcd.com/361/)
 
   
-Gente! Me quiero disculpar con ustedes porque nunca tuve oportunidad de editar el último episodio. Caro y Mariana prepararon una capsula para la ocasión y tampoco la pudimos subir, pero aquí esta para que tengan de que reírse la primera semana del año!  
+<iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85064115" width="100%"></iframe>Gente! Me quiero disculpar con ustedes porque nunca tuve oportunidad de editar el último episodio. Caro y Mariana prepararon una capsula para la ocasión y tampoco la pudimos subir, pero aquí esta para que tengan de que reírse la primera semana del año!  
   
 En esta presentación especial Mariana y Caro van en busca del [tilikote](http://www.la-wasa.com/2011/09/la-wasa-3x025-la-wasa-en-vacaciones.html) y nos platican sus experiencias navideñas  
 

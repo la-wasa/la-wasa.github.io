@@ -6,4 +6,7 @@ url: /2013/11/la-wasa-juega-super-mario-bros-forever.html
 ---
 
   
-Hoy la wasa juega Super Mario Bros Forever, una modificacion al juego original que se supone esta muy dificil, aqui en la wasa vamos a ver si es cierto.
+Hoy la wasa juega Super Mario Bros Forever, una modificacion al juego original que se supone esta muy dificil, aqui en la wasa vamos a ver si es cierto.  
+  
+  
+<iframe allowfullscreen="" frameborder="0" height="270" src="//www.youtube.com/embed/dvFCAXewQXw" width="480"></iframe>

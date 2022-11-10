@@ -40,6 +40,7 @@ Ya sea que lo jueguen o sigan a los equipos en campeonatos Dota 2 es algo que to
 1\. Don't Starve  
 
   
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/W689SOpXG9o" width="560"></iframe>
 
   
 Nunca me puso en tanta tensión jugar algo. Don't Starve es un juego de supervivencia, empiezas a mitad de la nada en un mundo generado aleatoriamente y a partir de eso tienes que conseguir todo lo necesario para sobrevivir a los animales, al hambre, al invierno. Es intenso porque estas explorando un mundo desconocido, a mitad del bosque todo quiere y puede matarte, donde si mueres pierdes todo lo que habías hecho para no volverlo a ver jamás. Créanme van a morir.  

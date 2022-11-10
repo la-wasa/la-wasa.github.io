@@ -15,12 +15,12 @@ Esta semana en La Wasa Celebramos que llegamos a los [500 likes en facebook](htt
 ](http://1.bp.blogspot.com/-v0KQWjxrQbY/T1g7XmQKI8I/AAAAAAAAB78/FLf2eDIrlMc/s1600/15834555.jpg)
 
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85235446%3Fsecret_token%3Ds-aFwU5&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 **BTW, disculpen ustedes a Mariana que tenia apagado su micrófono durante el intro**  
 **Y visiten su [post sobre el Día internacional de la mujer](http://www.la-wasa.com/2012/03/reflexion-acerca-del-dia-de-la-mujer.html) como parte de su columna [Randomness](http://www.la-wasa.com/search/label/Randomness)... nuevo contenido en diversos puntos aleatorios de la semana xD**  
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/gAS_0tuyj2s&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/gAS_0tuyj2s&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
 
@@ -33,7 +33,7 @@ Les recordamos también el nuevo contenido que tenemos: [Randomness](http://www.
   
 E Indira preparó un video de "Detrás de cámaras" lo pueden ver ya en los YouTubes  
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/Xw-LQB1j3XA&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/Xw-LQB1j3XA&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
   
@@ -46,3 +46,5 @@ En la música
 *   Gorillaz feat. Andre 3000 & James Murphy  - DoYaThing
 *   The Cardigans - Lovefool
 *   Caifanes - Viento
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/yNeF30RverQ/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/yNeF30RverQ&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/yNeF30RverQ&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

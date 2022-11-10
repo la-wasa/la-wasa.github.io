@@ -15,7 +15,7 @@ Esta noche en La Wasa: Nos divorciamos porque nos regalan autos hippies; nos ofr
 Nunca me llamaste :'(
 
   
-  
+<iframe frameborder="no" height="166" scrolling="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85216694&amp;show_artwork=true" width="100%"></iframe>  
 
 [![](http://3.bp.blogspot.com/-d_k4GcZMzzg/UVNXVXACUyI/AAAAAAAAHGo/neTof2yC9pg/s1600/AMLO-y-Ebrard.jpg)](http://3.bp.blogspot.com/-d_k4GcZMzzg/UVNXVXACUyI/AAAAAAAAHGo/neTof2yC9pg/s1600/AMLO-y-Ebrard.jpg)
 
@@ -29,4 +29,7 @@ En la música:
 *   Metallica - Fade To Black
 *   The Who - Baba O'Riley
 
-Si gustan watafuckearse y entender porque "venia de noche, quisiera grabar la wasita" lo ven bajo advertencia xD
+Si gustan watafuckearse y entender porque "venia de noche, quisiera grabar la wasita" lo ven bajo advertencia xD  
+  
+
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/693m7iCh-TE/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/693m7iCh-TE&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><embed width="320" height="266" src="http://www.youtube.com/v/693m7iCh-TE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

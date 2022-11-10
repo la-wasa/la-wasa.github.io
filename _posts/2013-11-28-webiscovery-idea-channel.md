@@ -18,4 +18,8 @@ PBS Idea Channel, el canal ganador de los [Webby Awards](http://www.webbyawards.
 
 Cada miércoles Mike presenta una pregunta, en general, sobre la cultura del Internet y tanto el, su equipo y la comunidad de seguidores en los comentarios tratamos de responderla. Desde [¿esta Facebook cambiando nuestra identidad?](https://www.youtube.com/watch?v=WRiGZJQZ_X4) o [¿es el SPAM la primera forma de arte primordial del internet?](https://www.youtube.com/watch?v=fQsq9gCit9Y)  
   
-Es un show en verdad inteligente, en el cual he conocido cosas como [Welcome to Night Vale](https://soundcloud.com/nightvaleradio), considerado revisitar cosas como [Minecraft](http://minecraftedu.com/page/) y realmente pensar de forma distinta. Además de que nos dio el [PBS Gameshow](https://www.youtube.com/user/pbsgameshow)!!
+Es un show en verdad inteligente, en el cual he conocido cosas como [Welcome to Night Vale](https://soundcloud.com/nightvaleradio), considerado revisitar cosas como [Minecraft](http://minecraftedu.com/page/) y realmente pensar de forma distinta. Además de que nos dio el [PBS Gameshow](https://www.youtube.com/user/pbsgameshow)!!  
+  
+
+  
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/uqtNSdDFGBM" width="560"></iframe>

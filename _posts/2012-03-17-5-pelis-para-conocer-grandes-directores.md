@@ -11,6 +11,8 @@ tags:
 Hay directores que a lo largo de los años han formado reputaciones para hacer grandes obras de arte. Pero algunos de ellos tienen décadas de carrera y decenas de largometrajes ¿Por donde empezar a ver? Esta semana les recomiendo 5 de mis pelis favoritas de algunos de los mejores directores hay. No garantizo que sean las mejores, pero si son de las que más disfruto.  
   
 
+<object width="320" height="266" class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/195DIZY-C3Y/0.jpg"><param name="movie" value="http://www.youtube.com/v/195DIZY-C3Y&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><param name="allowFullScreen" value="true"><embed width="320" height="266" src="http://www.youtube.com/v/195DIZY-C3Y&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></object>
+
   
 Tampoco estoy diciendo que sean los 5 mejores directores que hay, pero definitivamente estan entre los mejores.  
   

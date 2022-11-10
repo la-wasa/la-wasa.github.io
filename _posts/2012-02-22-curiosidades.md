@@ -34,7 +34,7 @@ _3.- "¿Todos los animales tienen el reflejo de estornudar?"_
 _De acuerdo a Paolo Viscardini, biólogo del Horniman Museum en Londres, sólo los [tetrápodos](http://es.wikipedia.org/wiki/Tetrapoda) pueden estornudar y este es un reflejo natural para limpiar el tracto respiratorio de cuerpos extraños, mucosa o algunas otras obstrucciones. Los animales con branquias, espiráculos u otro tipo de métodos de oxigenación no estornudan como tal, sino que tienen otros mecanismos para mantener limpio su aparato respiratorio. Un ejemplo es el de un elefante estornudando, aunque no se lo imagen si ocurre! Y para probarlo esta el siguiente video:_
 
   
-  
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/gtIz1u8g1F0" width="420"></iframe>  
   
 
 _Y EL PILÓN:_
@@ -44,3 +44,6 @@ _\*\* La fecha en que este post fue escrito es un número [palíndromo](http://e
 _Nos vemos en las próximas curiosidades!_
 
 _PD: Les dejo este otro lindo video que ejemplifica el punto anterior del estornudo._
+
+  
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/FzRH3iTQPrk" width="420"></iframe>

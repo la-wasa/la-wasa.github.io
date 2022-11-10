@@ -15,9 +15,9 @@ Queridos amigos, seguidores, estimados fans, gente a la que obligamos a escuchar
 También pueden visitar el resto de nuestro contenido: [Randomness](http://www.la-wasa.com/search/label/Randomness), [Cruda Polaca](http://www.la-wasa.com/search/label/Cruda%20Polaca), [Technobabble](http://www.la-wasa.com/search/label/Technobabble) y [Link-a-torium](http://www.la-wasa.com/search/label/LinkATorium)
 
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85241045&amp;show_artwork=true"></iframe>  
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/bAkJQ6X0-wY&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/bAkJQ6X0-wY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
 Recuerden que si van a anular sus voto y dárselo a Goku, también pueden votar por el Partido Nacional Chingón. No les prometemos obras, no les prometemos seguridad, no les prometemos salud publica.. les prometemos 3 putas para cada familia: [Una para ti, una para mi y una para compartir!!!](http://www.la-wasa.com/2011/06/la-wasa-3x02-una-para-ti.html)  
@@ -35,3 +35,5 @@ En la música:
 *   U2 - City Of Blinding Lights
 *   Black Keys - Next Girl
 *   Chingón - Malagueña Salerosa
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/x_PrT25o8Vs/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/x_PrT25o8Vs&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/x_PrT25o8Vs&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

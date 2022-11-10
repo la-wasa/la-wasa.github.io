@@ -13,6 +13,8 @@ Este año hubieron varias películas animadas muy buenas, Paranorman, Madagascar
 
   
 
+<object width="320" height="266" class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/btB8tb8fLYM/0.jpg"><param name="movie" value="http://www.youtube.com/v/btB8tb8fLYM&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><param name="allowFullScreen" value="true"><embed width="320" height="266" src="http://www.youtube.com/v/btB8tb8fLYM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></object>
+
   
 
 ### 4. Dredd 3D
@@ -24,6 +26,8 @@ En la lista por dos razones 1) no la he visto en ninguna otra lista 2) **merece 
 Mientras que la mayoría de las películas hubieran tenido al héroe salvando al mundo Dredd muestra al héroe teniendo problemas para acabar a una banda de criminales. La película se ve bien, de hecho mejor de lo que las pelis de acción se han visto en años y tiene sentido, el equipo de verdad trató de retratar el mundo del comic y solo se podía lograr con la estética que se le dio.
 
   
+
+<object width="320" height="266" class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/PifvRiHVSCY/0.jpg"><param name="movie" value="http://www.youtube.com/v/PifvRiHVSCY&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><param name="allowFullScreen" value="true"><embed width="320" height="266" src="http://www.youtube.com/v/PifvRiHVSCY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></object>
 
   
 
@@ -46,6 +50,8 @@ La magia en The Avengers es que hicieron lo imposible, es parte de una franquici
 Finalmente si hubiera escrito esto cuando salió en Abril hubiera gritado por que no se puede tener a los Avengers sin _Ant-Man_ pero no solo vamos a tener Ant-Man también viene Guardians Of The Galaxy.
 
   
+
+<object width="320" height="266" class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/1hPpG4s3-O4/0.jpg"><param name="movie" value="http://www.youtube.com/v/1hPpG4s3-O4&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><param name="allowFullScreen" value="true"><embed width="320" height="266" src="http://www.youtube.com/v/1hPpG4s3-O4&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></object>
 
   
 

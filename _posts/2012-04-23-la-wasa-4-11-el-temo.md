@@ -15,10 +15,10 @@ Esta semana en la wasa: salimos a África con el rey de España; mientras tanto 
 El rey de cacería
 
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85243685&amp;show_artwork=true"></iframe>  
 Como notarán Mariana no nos acompaña porque decidió perseguir una carrera como domadora de mandriles en San Tejeringo las Tunas. La mejor de las suertes a Mariana en esta nueva etapa de su vida.  
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/u8RZm8GpyS8?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/u8RZm8GpyS8?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash"></object> 
 
   
 En la música:  
@@ -27,3 +27,5 @@ En la música:
 *   Los Fabulosos Cadillacs - Mi Novia Se Cayó en un Pozo Ciego
 *   Red Hot Chili Peppers - Suck My Kiss
 *   System of a Down - Hypnotize
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/LoheCz4t2xc?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/LoheCz4t2xc?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash"></object>

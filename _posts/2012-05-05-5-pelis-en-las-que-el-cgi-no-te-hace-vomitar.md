@@ -10,6 +10,8 @@ tags:
 Hoy en día parece que todas lo que esta en cartelera esta filmado frente a una pantalla verde y que hay tomas que fueron hechas completamente en una computadora; y muchas veces el resultado no es particularmente bueno. Esta semana hablamos de 5 pelis en las cuales el CGI funciona, haciendo que se vean tan bien como es posible.  
   
 
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/QH90a_nJUAE/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/QH90a_nJUAE&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><embed width="320" height="266" src="http://www.youtube.com/v/QH90a_nJUAE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
+
   
 _**[5 pelis](http://www.la-wasa.com/search/label/5%20pelis) es la columa de La Wasa en la que cada semana platicamos de5 filmes con algo en común. \[Nueva columna todos los sabados\]**_  
   
@@ -26,7 +28,7 @@ Pero bueno. De que trata? Thomas A. Anderson es un respetable programador para u
 
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/_KtghA0rkDY/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/_KtghA0rkDY&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/_KtghA0rkDY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
   
@@ -63,7 +65,7 @@ Este es el ejemplo perfecto de como si se debe utilizar el GCI. Personalmente cr
 
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/8NUBVcit5VM/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/8NUBVcit5VM&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/8NUBVcit5VM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
 #### Tron legacy (2010; Joseph Kosinski)
 
@@ -74,6 +76,8 @@ Voy a empezar diciendo que **esta peli es buena.** Tiene un soundtrack por Daft 
 Visualmente es espectacular. Tron (1982) tuvo los mejores efectos especiales de la época y fue una de las primeras en utilizar ampliamente GCI. Legacy puede decir lo mismo, es espectacular por donde la veas: las animaciones se ven tan bien como es posible.  
   
 Vean la original, es un pilar de la historia del cine.  
+
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/3efV2wqEjEY/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/3efV2wqEjEY&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><embed width="320" height="266" src="http://www.youtube.com/v/3efV2wqEjEY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
 
 #### WALL-E
 

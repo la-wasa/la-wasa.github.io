@@ -9,19 +9,19 @@ tags:
 
 Esta semana en La Wasa hablamos de la peor noticia de la que hemos escuchado desde que empezamos a hacer el programa próximo reestreno de Buscando a Nemo y Star Wars en 3D; robamos trailers con iPads para la campaña de Josefina; y nos metemos debajo de la mesa en San Lázaro porque el PAN nos pidio espiar al PRI, o era el PRD al PAN? o el PRI al verde....  
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85229527%3Fsecret_token%3Ds-Cx4qp&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 Recuerden que nos pueden ver en [YouTube](http://youtube.com/LaWasaMedios)
 
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/TfhQnmgybwo/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/TfhQnmgybwo&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/TfhQnmgybwo&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
   
 Los pises que firmaron ACTA (casi):  
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/Csff7XNA8wc/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/Csff7XNA8wc&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/Csff7XNA8wc&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
 El IFE retira spots de Josefina Vázquez Mota porque se le señala como candidata del PAN. (Recuerden que su partido se encuentra en precampaña todavía, aunque es posible que para el 5 de febrero ya sepan que onda con todo eso)  
@@ -42,3 +42,5 @@ En la música:
 *   Soundgarden - Rusty Cage
 *   Bloc Party - Helicopter
 *   The tokens - The lion sleeps tonight
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/pBZs_Py-1_0/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/pBZs_Py-1_0&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/pBZs_Py-1_0&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

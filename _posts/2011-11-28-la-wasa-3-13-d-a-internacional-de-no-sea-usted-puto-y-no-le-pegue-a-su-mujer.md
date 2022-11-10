@@ -16,7 +16,7 @@ Esta semana en La Wasa chapitas Eruviel manda la patrulla para que paguemos la t
 La república amorosa de amL<3ve
 
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85212619%3Fsecret_token%3Ds-bqmfC&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 En la aclaración de la información, sigue sin haber más información sobre las grabaciones de las elecciones de Michoacán.  
   
 Por cierto el total de vehículos en México es de 23.9 millones de vehículos (estimado al 2006) mientras que en el estado de México es de algo más de 3 millones.
@@ -36,3 +36,5 @@ En la música:
 *   Michael Jackson - Smooth Criminal
 *   Röyksopp - Poor Leno
 *   La Lupita - Contrabando y Traición
+
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/sPG6OQy2iwI/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/sPG6OQy2iwI&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><embed width="320" height="266" src="http://www.youtube.com/v/sPG6OQy2iwI&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

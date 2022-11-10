@@ -13,7 +13,7 @@ Esta semana les damos los obituarios, nos unimos a las protestas en wallstreet, 
 [![](http://www.aporrea.org/imagenes/gente/161674.jpg)](http://www.aporrea.org/imagenes/gente/161674.jpg)
 
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85196983&amp;show_artwork=true"></iframe>  
 
 En la música:
 

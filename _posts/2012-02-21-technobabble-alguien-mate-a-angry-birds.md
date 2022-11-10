@@ -43,3 +43,7 @@ Pensamientos finales
 Aunque desde luego quiero solo lo mejor para Rovio, una compañía que iniciaron 3 estudiantes en su dormitorio (como todas las buenas historias de éxito) quiero ver que hagan algo verdaderamente interesante. Tienen todo el dinero como para financiar a otros pequeños desarrolladores, en el caso de que no tengan otras nuevas ideas. Pero la verdad es que a mi parecer encontraron una _vaca lechera_ y la van a ordeñar hasta la muerte; prueba de ello es que entre 2005 y 2009 desarrollaron unos [30 juegos](http://en.wikipedia.org/wiki/Rovio_Mobile) y desde que lanzaron AB solo lo han porteado a otras plataformas. 
 
 ...por el otro lado [mi juego favorito](http://itunes.apple.com/us/app/doodle-jump-be-warned-insanely/id307727765?mt=8) en el iPhone sigue en el Top 25 (aunque en el #24) desde Abril de 2009
+
+  
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/7UCm6uyzNE8/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/7UCm6uyzNE8&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/7UCm6uyzNE8&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

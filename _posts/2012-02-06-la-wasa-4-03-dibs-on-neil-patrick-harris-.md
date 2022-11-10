@@ -10,12 +10,12 @@ tags:
 Esta semana en La Wasa: seguimos espiando en San Lazaro con nuestra tecnología que lee mentes del siglo 5,000; nos prohíben salir del país porque regalamos despensas para quien votara por Goku; tenemos los obituarios.... desde el futuro; y usamos nuestros estudios (quizás por primera vez) para darles el consejo financiero de La Wasa.  
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/2NuSQm2V5fI/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/2NuSQm2V5fI&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/2NuSQm2V5fI&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
 
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85231134%3Fsecret_token%3Ds-0nPqn&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 **Como saben usualmente grabamos los viernes y este fin de semana hubo más información, y aunque hablaremos de ella el próximo programa necesitan saber que:**  
   
 Josefina gana el proceso interno del pan (Supongo que ya puede usar [esos spots](http://www.la-wasa.com/2012/01/la-wasa-402-vs-la-tercera-dimension.html)?) Josefina gana con el 55% en las urnas, pero resulta que solo participó el 23% de los militantes del PAN, lo cual no creo que sea una buena señal. Finalmente La Wasa todavia te quiere Santiago.... aunque no hubiéramos votado por ti xD  
@@ -51,7 +51,7 @@ Y en cuento al medio tiempo. Aunque la producción estuvo bien mamadora creo que
 
   
 
-  
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/ScA2FqJn9ic/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/ScA2FqJn9ic&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/ScA2FqJn9ic&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
 Pero después de esto todo es mediocre
 
@@ -63,3 +63,5 @@ En la música:
 *   Jamiroquai - Canned Heat
 *   Los Fabulosos Cadillacs - Should I Stay Or Should I Go
 *   Jamiroquai - Half The Man
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/_Sedt2LhOmc/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/_Sedt2LhOmc&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/_Sedt2LhOmc&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>

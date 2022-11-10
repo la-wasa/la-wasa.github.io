@@ -10,12 +10,14 @@ tags:
 Esta semana en la Wasa discutimos los recientes tratados entre México y Estados Unidos para la explotación colectiva del petroleo en aguas fronterizas. En las breves, platicamos de Hugo Chévez y Siria; nuevamente hay motines en grecia; puebla se gasta 200MDP en el 5 de mayo; y otra vez nos ataca la influenza; y vamos a la talachería, todo esto y más esta semana en La Wasa Podcast Tropical!!  
   
 
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/bBYSCo-Jzmw/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/bBYSCo-Jzmw&amp;fs=1&amp;source=uds"><param name="bgcolor" value="#FFFFFF"><embed width="320" height="266" src="http://www.youtube.com/v/bBYSCo-Jzmw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
+
   
-  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85233830%3Fsecret_token%3Ds-NIKZx&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 El Reino unido explicado:  
 
 [  
-](http://www.puntoporpunto.com/isla2.jpg)  
+](http://www.puntoporpunto.com/isla2.jpg) <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/rNu8XDBSn10/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/rNu8XDBSn10&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/rNu8XDBSn10&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
 
   
   
@@ -33,4 +35,7 @@ En la música:
 *   The Killers - Where The White Boys Dance
 *   Jack White - Love Interruption
 
-Quería aprovechar que tuvimos a la gusana ciega en la música para enseñarles [este video](http://vinnieveritas.com/flash/otros/days-after-those-days/) de Vinnie Veritas. Desafortunadamente no esta el video, de forma oficial, en YouTube. Así que les dejo con este otro, tabíen de Vinnie, e igual de épico.
+Quería aprovechar que tuvimos a la gusana ciega en la música para enseñarles [este video](http://vinnieveritas.com/flash/otros/days-after-those-days/) de Vinnie Veritas. Desafortunadamente no esta el video, de forma oficial, en YouTube. Así que les dejo con este otro, tabíen de Vinnie, e igual de épico.  
+  
+
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/xmTPmRBo-c0/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/xmTPmRBo-c0&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/xmTPmRBo-c0&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
