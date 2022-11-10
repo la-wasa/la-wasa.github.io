@@ -15,7 +15,7 @@ Esta semana en la wasa. Declaraciones de miembros del PAN provocan controversia;
 Florence Cassez
 
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85236669%3Fsecret_token%3Ds-MsrKo&amp;show_artwork=true&amp;secret_url=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85236669%3Fsecret_token%3Ds-MsrKo&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 Nos acordamos, por alguna razón, de muchas cosas de la infancia al grabar, y pasamos los últimos minutos comentando lo mismo.  
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">

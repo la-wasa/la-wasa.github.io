@@ -24,7 +24,7 @@ El día 11 de noviembre un par de horas antes de grabar este episodio murió _Fr
 
   
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85204241%3Fsecret_token%3Ds-vXle8&amp;show_artwork=true&amp;secret_url=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85204241%3Fsecret_token%3Ds-vXle8&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 **_A esta altura de la investigación todo apunta que el incidente en el que murió Francisco Blake, se trató de un accidente provocado por las condiciones climáticas._**  
   
   

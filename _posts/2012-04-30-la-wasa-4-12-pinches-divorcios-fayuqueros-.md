@@ -15,7 +15,7 @@ Esta semana en La Wasa, tenemos los deportes... por creo que tercera ocasión en
 Pa' cuando se ofrezca
 
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85244957&amp;show_artwork=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85244957&amp;show_artwork=true"></iframe>  
 
 Esta semana nos acompañaron Jess y Poncho. Saludos a los dos y felicidades a Jess, que fue su cumpleaños y le dedicamos el programa.  
 

@@ -15,7 +15,7 @@ Esta semana en La Wasa Celebramos que llegamos a los [500 likes en facebook](htt
 ](http://1.bp.blogspot.com/-v0KQWjxrQbY/T1g7XmQKI8I/AAAAAAAAB78/FLf2eDIrlMc/s1600/15834555.jpg)
 
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85235446%3Fsecret_token%3Ds-aFwU5&amp;show_artwork=true&amp;secret_url=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85235446%3Fsecret_token%3Ds-aFwU5&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 **BTW, disculpen ustedes a Mariana que tenia apagado su micrófono durante el intro**  
 **Y visiten su [post sobre el Día internacional de la mujer](http://www.la-wasa.com/2012/03/reflexion-acerca-del-dia-de-la-mujer.html) como parte de su columna [Randomness](http://www.la-wasa.com/search/label/Randomness)... nuevo contenido en diversos puntos aleatorios de la semana xD**  
   

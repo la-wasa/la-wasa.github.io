@@ -7,7 +7,7 @@ tags:
 - La Wasa
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85037782&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85037782&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
 Estas vacaciones les damos **El Tilikote,** hablamos sobre nuestras actividades favoritas en la playa y por única ocasión La Wasa Podcast Tropical en verdad es tropical
 

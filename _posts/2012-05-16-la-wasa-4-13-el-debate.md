@@ -7,7 +7,7 @@ tags:
 - La Wasa
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85040195"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85040195"></iframe>
 
 Después de una nueva ausencia de 2 semanas debido al final de semestre regresamos para analizar todo lo que pasó con el debate del 6 de mayo. Y no solo eso; desde el principio habíamos querido hacer un episodio de roadtrip y finalmente lo grabamos, La Wasa va a [La Joya en Veracruz](http://g.co/maps/me7g9). Saludos a todos los fans por allá... si es que los hay.
 

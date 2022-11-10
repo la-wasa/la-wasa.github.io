@@ -14,7 +14,7 @@ Esta semana en la wasa tenemos la tercia perfecta: Chente, Chávez y Strauss Kah
 [![](https://lh3.ggpht.com/-o8QSxZjFe44/UKG4UnCg6kI/AAAAAAAACCY/Wp5r6EokeR0/s1600/dominique_strauss_kahn.jpg)](http://3.bp.blogspot.com/-o8QSxZjFe44/UKG4UnCg6kI/AAAAAAAACCY/Wp5r6EokeR0/s1600/dominique_strauss_kahn.jpg)
 
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85242451&amp;show_artwork=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85242451&amp;show_artwork=true"></iframe>  
 
 ### Los niños incómodos
 

@@ -9,7 +9,7 @@ tags:
 
 Hoy en La Wasa discutimos los servicios en los hoteles en que se hospedan nuestros muy estimados criminales; recibimos un premio Nobel; le damos seguimiento al caso Pemex Repsol; nos burlamos de los tweenies y desenmascaramos la [conspiración](http://www.justiceforkurt.com/) de Kurney Love para matar a Kurt Cobain  
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85194848&amp;show_artwork=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85194848&amp;show_artwork=true"></iframe>  
 
 > _La niña que llora:_
 

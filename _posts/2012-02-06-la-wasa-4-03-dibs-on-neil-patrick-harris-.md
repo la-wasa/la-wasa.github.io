@@ -19,7 +19,7 @@ Esta semana en La Wasa: seguimos espiando en San Lazaro con nuestra tecnología 
   
 
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85231134%3Fsecret_token%3Ds-0nPqn&amp;show_artwork=true&amp;secret_url=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85231134%3Fsecret_token%3Ds-0nPqn&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 **Como saben usualmente grabamos los viernes y este fin de semana hubo más información, y aunque hablaremos de ella el próximo programa necesitan saber que:**  
   
 Josefina gana el proceso interno del pan (Supongo que ya puede usar [esos spots](http://www.la-wasa.com/2012/01/la-wasa-402-vs-la-tercera-dimension.html)?) Josefina gana con el 55% en las urnas, pero resulta que solo participó el 23% de los militantes del PAN, lo cual no creo que sea una buena señal. Finalmente La Wasa todavia te quiere Santiago.... aunque no hubiéramos votado por ti xD  

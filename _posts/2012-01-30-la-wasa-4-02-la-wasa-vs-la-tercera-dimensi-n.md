@@ -9,7 +9,7 @@ tags:
 
 Esta semana en La Wasa hablamos de la peor noticia de la que hemos escuchado desde que empezamos a hacer el programa próximo reestreno de Buscando a Nemo y Star Wars en 3D; robamos trailers con iPads para la campaña de Josefina; y nos metemos debajo de la mesa en San Lázaro porque el PAN nos pidio espiar al PRI, o era el PRD al PAN? o el PRI al verde....  
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85229527%3Fsecret_token%3Ds-Cx4qp&amp;show_artwork=true&amp;secret_url=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85229527%3Fsecret_token%3Ds-Cx4qp&amp;show_artwork=true&amp;secret_url=true"></iframe>  
 Recuerden que nos pueden ver en [YouTube](http://youtube.com/LaWasaMedios)
 
   

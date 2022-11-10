@@ -16,7 +16,7 @@ Y nos pusimos al día!! Hablamos de los recientes destapes presidenciales rumbo 
 
 
 Nos queremos disculpar por este tiempo ausentes. Han pasado muchas cosas en estos meses, tuvimos un mid-season no anunciado, y ocurrieron varias situaciones personales con todos nosotros. De hecho si grabamos varias veces pero no tuvimos oportunidad de publicar, pero hoy tienen 4 episodios juntos:  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85090784&amp;show_artwork=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85090784&amp;show_artwork=true"></iframe>
 
 *   [La Wasa - 3x05: Destapes presidenciales](http://la-wasa.blogspot.com/2011/09/la-wasa-3x05-destapes-presidenciales.html)
 *   [La Wasa - 3x04: Putas & Ecología](http://la-wasa.blogspot.com/2011/09/la-wasa-3x04-putas-ecologia.html)

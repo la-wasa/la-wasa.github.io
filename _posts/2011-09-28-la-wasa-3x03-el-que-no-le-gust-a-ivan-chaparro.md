@@ -8,7 +8,7 @@ tags:
 ---
 
 En este episodio de La Wasa (grabado el 4 de Julio de 2011) hablamos de Dominique Strauss Kahn y las putas del hotel, de como el partido verde es la puta del pueblo y nos da gonorrea política y de los aparatos vampiro.  
-<iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85085794" width="100%"></iframe>Después de este episodio entramos en mid-season... luego ocurrieron una serie de complicaciones  
+<iframe frameborder="no" height="166" scrolling="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85085794" width="100%"></iframe>Después de este episodio entramos en mid-season... luego ocurrieron una serie de complicaciones  
   
   
 En la música  

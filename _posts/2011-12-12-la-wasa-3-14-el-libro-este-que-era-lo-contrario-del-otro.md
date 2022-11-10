@@ -12,7 +12,7 @@ Esta semana solo les traemos las breves, porque nos pasamos todo el programa bur
 [![](http://1.bp.blogspot.com/-H9-Fj2okC0A/UVNX2wik-qI/AAAAAAAAHKc/iqh5mR3mzWo/s320/tumblr_lvrprj7e9h1qcczkzo1_500.jpg)](http://1.bp.blogspot.com/-H9-Fj2okC0A/UVNX2wik-qI/AAAAAAAAHKc/iqh5mR3mzWo/s1600/tumblr_lvrprj7e9h1qcczkzo1_500.jpg)
 
   
-<iframe frameborder="no" height="166" scrolling="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85214435&amp;show_artwork=true" width="100%"></iframe>El video de peña en la Feria Internacional del Libro de Guadalajara (26 de noviembre al 4 de diciembre 2011)  
+<iframe frameborder="no" height="166" scrolling="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85214435&amp;show_artwork=true" width="100%"></iframe>El video de peña en la Feria Internacional del Libro de Guadalajara (26 de noviembre al 4 de diciembre 2011)  
   
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/sUMwy7ZolNg/0.jpg" height="266" width="320">

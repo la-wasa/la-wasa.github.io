@@ -15,7 +15,7 @@ La wasa llega a su cuarta temporada. Gracias por acompañarnos en la temporada a
 **UPDATE: Al momento de publicar este post han muerto 15 personas a causa del accidente del Costa Concordia y parece haber complicaciones debido a un derrame de combustible del barco**
 
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85227852&amp;show_artwork=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85227852&amp;show_artwork=true"></iframe>  
 También empezamos a subir cápsulas en vídeo, para empezar el resumen de La Wasa llega a YouTube semanalmente. Visítanos en [youtube.com/LaWasaMedios](http://youtube.com/LaWasaMedios)  
   
 

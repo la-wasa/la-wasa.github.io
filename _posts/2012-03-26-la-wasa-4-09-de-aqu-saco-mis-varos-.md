@@ -15,7 +15,7 @@ Queridos amigos, seguidores, estimados fans, gente a la que obligamos a escuchar
 También pueden visitar el resto de nuestro contenido: [Randomness](http://www.la-wasa.com/search/label/Randomness), [Cruda Polaca](http://www.la-wasa.com/search/label/Cruda%20Polaca), [Technobabble](http://www.la-wasa.com/search/label/Technobabble) y [Link-a-torium](http://www.la-wasa.com/search/label/LinkATorium)
 
   
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85241045&amp;show_artwork=true"></iframe>  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85241045&amp;show_artwork=true"></iframe>  
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">
 <param name="movie" value="//www.youtube.com/v/bAkJQ6X0-wY&amp;fs=1&amp;source=uds"> 

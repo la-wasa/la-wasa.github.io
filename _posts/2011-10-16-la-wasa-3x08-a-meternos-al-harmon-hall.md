@@ -17,7 +17,7 @@ Esta semana en la wasa le dimos en la madre a un carro por llegar pedos a votar 
 
 Decidan ustedes si Jorge Kahwagi estaba pedo, siempre esta pedo o de por sí tiene cara de pedo
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85198804%3Fsecret_token%3Ds-e4dGb&amp;show_artwork=true&amp;secret_url=true"></iframe>En la música  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85198804%3Fsecret_token%3Ds-e4dGb&amp;show_artwork=true&amp;secret_url=true"></iframe>En la música  
 
 *   Muse - Starlight
 *   Soda Stereo - Canción Animal
