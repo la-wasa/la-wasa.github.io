@@ -23,7 +23,11 @@ Aprovechamos también para a nombre de La Empresa, de La Wasa Podcast, de La Was
 
   
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/CeV8FDThhAY?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/CeV8FDThhAY?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash"></object> 
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/CeV8FDThhAY?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/CeV8FDThhAY?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash">
+</object> 
 
   
 
@@ -54,4 +58,8 @@ En la música:
 *   Jack White - I'm Shakin'
 *   Oasis - Don't Look Back in Anger
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/j6vVP91C3Iw&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/j6vVP91C3Iw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/j6vVP91C3Iw&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/j6vVP91C3Iw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object>

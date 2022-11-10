@@ -36,7 +36,11 @@ No sean putos, ya legalicen la marihuana
 Recuerden visitarnos en nuestro canal de YouTube!  
   
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/NWmHTrRnuUw&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/NWmHTrRnuUw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/NWmHTrRnuUw&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/NWmHTrRnuUw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object> 
 
   
 En nuestro canal pueden ver nuestro show [La Wasa juega](http://www.youtube.com/playlist?list=PLBC3C8C75B5F3597A&feature=plcp) y algunos [otros](http://www.youtube.com/playlist?list=PLD3CE55252CD8C7F3&feature=plcp) videos que hemos preparado.  
@@ -50,4 +54,8 @@ En la música:
 *   Cut Copy - Hearts On Fire
 *   Toto - Africa
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/yjbpwlqp5Qw/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/yjbpwlqp5Qw&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/yjbpwlqp5Qw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/yjbpwlqp5Qw/0.jpg" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/yjbpwlqp5Qw&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/yjbpwlqp5Qw&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object>

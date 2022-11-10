@@ -35,7 +35,11 @@ Es en verdad una de las mejores pelis que he visto últimamente y al parecer la 
 
   
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/CWX34ShfcsE/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/CWX34ShfcsE&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/CWX34ShfcsE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/CWX34ShfcsE/0.jpg" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/CWX34ShfcsE&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/CWX34ShfcsE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object> 
 
   
 Troll Hunter (André Øvredal)  
@@ -50,14 +54,22 @@ Supuestamente hay varias bromas que uno solo entiende si es Noruego, por lo que 
 
   
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/TLEo7H9tqSM/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/TLEo7H9tqSM&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/TLEo7H9tqSM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/TLEo7H9tqSM/0.jpg" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/TLEo7H9tqSM&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/TLEo7H9tqSM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object> 
 
   
 Super 8 (J. J. Abrams)   
 [![](http://upload.wikimedia.org/wikipedia/en/7/74/Super_8_Poster.jpg)](http://upload.wikimedia.org/wikipedia/en/7/74/Super_8_Poster.jpg)  
 Aunque no es la primera peli de Abrams (que por cierto siempre creí que se escribía con 'h') que disfruto si es la primera que llamaría **buena**. Super 8 es un tributo a los B-movies de los 80's y 70's y un tributo a todos los cineastas y el sueño de contar algo utilizando el celuloide. El trailer no revela mucho de la película y por lo mismo no lo voy a hacer yo, y si aun no se las han spoileado corran a verla. Vale la pena.  
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/vpzUCA5i6zY/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/vpzUCA5i6zY&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/vpzUCA5i6zY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/vpzUCA5i6zY/0.jpg" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/vpzUCA5i6zY&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/vpzUCA5i6zY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object> 
 
   
   
@@ -76,7 +88,11 @@ El highlight de la película, que no es particularmente difícil de predecir, es
   
   
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/hR-kP-olcpM/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/hR-kP-olcpM&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/hR-kP-olcpM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object> 
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/hR-kP-olcpM/0.jpg" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/hR-kP-olcpM&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/hR-kP-olcpM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object> 
 
   
   
@@ -90,4 +106,8 @@ No esperaba que fuera buena, no quería que fuera buena, no tendría porque ser 
 Source Code tiene bastante ideas interesantes, mundos paralelos, experiencias después de la muerte, y una máquina que te permite convertirte en una persona justo antes de que muera. Es bastante buena, sobre todo cuando consideramos que el tipo hace una y otra y otra vez los mismos 8 minutos de la vida de alguien más y por lo mismo casi siempre en la misma escena, en la misma escenografía con los personajes haciendo lo mismo todas las veces. No debería de ser buena, pero lo es... además es casi la única peli de ciencia ficción que Hollywood saco el año pasado, entonces hay que verla aunque sea por los efectos especiales.  
   
 
- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/NkTrG-gpIzE/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/NkTrG-gpIzE&amp;fs=1&amp;source=uds"> <param name="bgcolor" value="#FFFFFF"> <embed width="320" height="266" src="http://www.youtube.com/v/NkTrG-gpIzE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash"></object>
+ <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/NkTrG-gpIzE/0.jpg" height="266" width="320">
+<param name="movie" value="http://www.youtube.com/v/NkTrG-gpIzE&amp;fs=1&amp;source=uds"> 
+<param name="bgcolor" value="#FFFFFF"> 
+<embed width="320" height="266" src="http://www.youtube.com/v/NkTrG-gpIzE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+</object>

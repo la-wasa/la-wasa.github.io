@@ -22,4 +22,9 @@ Marge a la portada de Playboy para celebrar 22 años de Los Simpson
 
   
 Y Finalmente de Pulp Fiction a Inglourious Basterds, Tarantino al limite  
-<object height="340" width="560"><param name="movie" value="http://www.youtube.com/v/6AtLlVNsuAc&amp;hl=en&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/6AtLlVNsuAc&amp;hl=en&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></object>
+<object height="340" width="560">
+<param name="movie" value="http://www.youtube.com/v/6AtLlVNsuAc&amp;hl=en&amp;fs=1&amp;">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="http://www.youtube.com/v/6AtLlVNsuAc&amp;hl=en&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340">
+</object>
