@@ -11,9 +11,9 @@ Hoy en día parece que todas lo que esta en cartelera esta filmado frente a una 
   
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/QH90a_nJUAE/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/QH90a_nJUAE&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/QH90a_nJUAE&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/QH90a_nJUAE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/QH90a_nJUAE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
 
   
@@ -33,9 +33,9 @@ Pero bueno. De que trata? Thomas A. Anderson es un respetable programador para u
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/_KtghA0rkDY/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/_KtghA0rkDY&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/_KtghA0rkDY&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/_KtghA0rkDY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/_KtghA0rkDY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -74,9 +74,9 @@ Este es el ejemplo perfecto de como si se debe utilizar el GCI. Personalmente cr
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/8NUBVcit5VM/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/8NUBVcit5VM&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/8NUBVcit5VM&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/8NUBVcit5VM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/8NUBVcit5VM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
 #### Tron legacy (2010; Joseph Kosinski)
@@ -90,9 +90,9 @@ Visualmente es espectacular. Tron (1982) tuvo los mejores efectos especiales de 
 Vean la original, es un pilar de la historia del cine.  
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/3efV2wqEjEY/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/3efV2wqEjEY&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/3efV2wqEjEY&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/3efV2wqEjEY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/3efV2wqEjEY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
 
 #### WALL-E

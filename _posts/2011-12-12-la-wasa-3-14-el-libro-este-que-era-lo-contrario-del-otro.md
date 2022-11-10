@@ -16,9 +16,9 @@ Esta semana solo les traemos las breves, porque nos pasamos todo el programa bur
   
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/sUMwy7ZolNg/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/sUMwy7ZolNg&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/sUMwy7ZolNg&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/sUMwy7ZolNg&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/sUMwy7ZolNg&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
 
   
@@ -27,9 +27,9 @@ Que ya es [Justin Bieber mexicano](http://www.lepetitjournal.com/mexico/breves-m
   
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/ZG1yRS7EF2g/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/ZG1yRS7EF2g&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/ZG1yRS7EF2g&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/ZG1yRS7EF2g&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/ZG1yRS7EF2g&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
 
   
@@ -41,9 +41,9 @@ Y tercer grado.
 *   Segun Carlos Marín: Peña debio ser sincero y decir que lee el libro vaquero y el tvnotas (Tuve que buscar como se escribia, eso de tevenotas no cuadraba)
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/pSU1NkHLJsE/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/pSU1NkHLJsE&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/pSU1NkHLJsE&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/pSU1NkHLJsE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/pSU1NkHLJsE&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
 
   
@@ -71,7 +71,7 @@ En la música:
 *   Velvet Revolver - She builds quick machines
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/L4ohnoecUbY/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/L4ohnoecUbY&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/L4ohnoecUbY&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/L4ohnoecUbY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/L4ohnoecUbY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>

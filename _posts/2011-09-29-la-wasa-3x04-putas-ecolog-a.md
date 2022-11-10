@@ -13,9 +13,9 @@ La Wasa para el 2 de septiembre. Hoy hablamos sobre los recientes ataques al Cas
   
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/B-nhlnrT384/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/B-nhlnrT384&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/B-nhlnrT384&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/B-nhlnrT384&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/B-nhlnrT384&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
 
   
@@ -38,7 +38,7 @@ En la música. Esta semana les recomendamos el nuevo album de los Red Hot Chili 
 *   Red hot chili peppers  \- Meet me at the corner
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/RtBbinpK5XI/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/RtBbinpK5XI&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/RtBbinpK5XI&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/RtBbinpK5XI&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/RtBbinpK5XI&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>

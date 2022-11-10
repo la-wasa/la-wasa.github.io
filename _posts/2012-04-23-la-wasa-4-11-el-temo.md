@@ -19,9 +19,9 @@ El rey de cacería
 Como notarán Mariana no nos acompaña porque decidió perseguir una carrera como domadora de mandriles en San Tejeringo las Tunas. La mejor de las suertes a Mariana en esta nueva etapa de su vida.  
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/u8RZm8GpyS8?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> 
+<param name="movie" value="//www.youtube.com/v/u8RZm8GpyS8?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/u8RZm8GpyS8?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/u8RZm8GpyS8?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -33,7 +33,7 @@ En la música:
 *   System of a Down - Hypnotize
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/LoheCz4t2xc?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> 
+<param name="movie" value="//www.youtube.com/v/LoheCz4t2xc?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/LoheCz4t2xc?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/LoheCz4t2xc?version=3&amp;f=user_uploads&amp;c=google-webdrive-0&amp;app=youtube_gdata" type="application/x-shockwave-flash">
 </object>

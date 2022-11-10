@@ -15,9 +15,9 @@ Esta semana en La Wasa: contrario a la creencia popular nos emocionamos por el 1
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/tREJbzAVbsk/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/H_UoGPe_7KQ&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/H_UoGPe_7KQ&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/H_UoGPe_7KQ&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/H_UoGPe_7KQ&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -32,9 +32,9 @@ En la música:
 *   José Alfredo Jiménez - Sí nos dejan
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/TSeqjXiLEE4/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/TSeqjXiLEE4&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/TSeqjXiLEE4&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/TSeqjXiLEE4&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/TSeqjXiLEE4&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
 ** Y porque definitivamente no nos podemos ir sin Pedro Infante**

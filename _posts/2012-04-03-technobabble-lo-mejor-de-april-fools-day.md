@@ -11,9 +11,9 @@ El domingo fue April Fool's Day, el día de los Inocentes, en algunos países de
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/HBCzkz3gHb8/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/HBCzkz3gHb8&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/HBCzkz3gHb8&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/HBCzkz3gHb8&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/HBCzkz3gHb8&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
 De vuelta en 2008 casi me engañan.
@@ -37,9 +37,9 @@ Peugeot UK sacó un video que no estoy seguro de porque es gracioso, pero si es 
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/xP5_5RDKxOY/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/xP5_5RDKxOY&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/xP5_5RDKxOY&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/xP5_5RDKxOY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/xP5_5RDKxOY&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -50,9 +50,9 @@ Los gringos tienen un dicho _ordeñar una vaca muerta_ y mientras que **yo** cre
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/7NufHsmITjM/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/7NufHsmITjM&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/7NufHsmITjM&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/7NufHsmITjM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/7NufHsmITjM&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -85,9 +85,9 @@ Google se llevó las palmas este año y por mucho: "_Goole provee servicios en u
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://0.gvt0.com/vi/rznYifPHxDg/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/rznYifPHxDg&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/rznYifPHxDg&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/rznYifPHxDg&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/rznYifPHxDg&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   

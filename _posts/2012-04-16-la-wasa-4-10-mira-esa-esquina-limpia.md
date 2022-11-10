@@ -21,9 +21,9 @@ Esta semana en la wasa tenemos la tercia perfecta: Chente, Chávez y Strauss Kah
   
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/mnH7LxqEH84/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/mnH7LxqEH84&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/mnH7LxqEH84&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/mnH7LxqEH84&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/mnH7LxqEH84&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
 
 **_Ya, no lo pueden quitar aunque sea por la rola_**
@@ -39,7 +39,7 @@ En la música:
 *   Plastilina Mosh - Mr. P. Mosh
 
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/eRuV0VKINto&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/eRuV0VKINto&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
-<embed width="320" height="266" src="http://www.youtube.com/v/eRuV0VKINto&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/eRuV0VKINto&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>

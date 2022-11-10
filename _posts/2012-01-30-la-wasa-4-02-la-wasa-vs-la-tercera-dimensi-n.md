@@ -15,9 +15,9 @@ Recuerden que nos pueden ver en [YouTube](http://youtube.com/LaWasaMedios)
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/TfhQnmgybwo/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/TfhQnmgybwo&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/TfhQnmgybwo&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/TfhQnmgybwo&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/TfhQnmgybwo&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -26,9 +26,9 @@ Los pises que firmaron ACTA (casi):
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/Csff7XNA8wc/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/Csff7XNA8wc&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/Csff7XNA8wc&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/Csff7XNA8wc&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/Csff7XNA8wc&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -52,7 +52,7 @@ En la música:
 *   The tokens - The lion sleeps tonight
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/pBZs_Py-1_0/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/pBZs_Py-1_0&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/pBZs_Py-1_0&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/pBZs_Py-1_0&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/pBZs_Py-1_0&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>

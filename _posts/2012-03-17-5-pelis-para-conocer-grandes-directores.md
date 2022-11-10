@@ -12,10 +12,10 @@ Hay directores que a lo largo de los años han formado reputaciones para hacer g
   
 
 <object width="320" height="266" class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/195DIZY-C3Y/0.jpg">
-<param name="movie" value="http://www.youtube.com/v/195DIZY-C3Y&amp;fs=1&amp;source=uds">
+<param name="movie" value="//www.youtube.com/v/195DIZY-C3Y&amp;fs=1&amp;source=uds">
 <param name="bgcolor" value="#FFFFFF">
 <param name="allowFullScreen" value="true">
-<embed width="320" height="266" src="http://www.youtube.com/v/195DIZY-C3Y&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash" allowfullscreen="true">
+<embed width="320" height="266" src="//www.youtube.com/v/195DIZY-C3Y&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash" allowfullscreen="true">
 </object>
 
   

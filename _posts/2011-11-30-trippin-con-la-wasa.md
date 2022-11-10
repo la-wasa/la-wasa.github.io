@@ -15,27 +15,27 @@ Si tienen aún más tiempo libre **muteen** el audio del video y veanlo mientras
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://3.gvt0.com/vi/imamcajBEJs/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/imamcajBEJs&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/imamcajBEJs&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/imamcajBEJs&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/imamcajBEJs&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/s9MszVE7aR4/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/s9MszVE7aR4&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/s9MszVE7aR4&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/s9MszVE7aR4&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/s9MszVE7aR4&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/bV-hSgL1R74/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/bV-hSgL1R74&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/bV-hSgL1R74&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/bV-hSgL1R74&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/bV-hSgL1R74&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
@@ -43,16 +43,16 @@ Si tienen aún más tiempo libre **muteen** el audio del video y veanlo mientras
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/D67kmFzSh_o/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/D67kmFzSh_o&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/D67kmFzSh_o&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/D67kmFzSh_o&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/D67kmFzSh_o&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object> 
 
   
   
 
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/PN9n1bAahg4/0.jpg" height="266" width="320">
-<param name="movie" value="http://www.youtube.com/v/PN9n1bAahg4&amp;fs=1&amp;source=uds"> 
+<param name="movie" value="//www.youtube.com/v/PN9n1bAahg4&amp;fs=1&amp;source=uds"> 
 <param name="bgcolor" value="#FFFFFF"> 
-<embed width="320" height="266" src="http://www.youtube.com/v/PN9n1bAahg4&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
+<embed width="320" height="266" src="//www.youtube.com/v/PN9n1bAahg4&amp;fs=1&amp;source=uds" type="application/x-shockwave-flash">
 </object>
